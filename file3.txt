@@ -1,0 +1,3 @@
+I am creating new file called file3.txt
+
+I just checked the git app 

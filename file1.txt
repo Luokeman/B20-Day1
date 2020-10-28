@@ -4,3 +4,5 @@ we added one file iside  called file.txt
 Git automatically detected the changes we committed this cahnges into local repoaitory
 
 We are making change to this file
+
+i am making some change for file1 under day1 repository
