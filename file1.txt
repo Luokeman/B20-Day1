@@ -1,1 +1,4 @@
 This is my firls file
+we create a git repoitory on desktop called B20-Day1.
+we added one file iside  called file.txt
+Git automatically detected the changes we committed this cahnges into local repoaitory
